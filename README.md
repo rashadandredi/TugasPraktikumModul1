@@ -4,4 +4,4 @@ Praktikum 1
 Praktikum 2
 ![alt text](https://github.com/rashadandredi/TugasPraktikumModul1/blob/master/HasilPraktikum2.PNG)
 Praktikum 3
-![alt text]()
+![alt text](https://github.com/rashadandredi/TugasPraktikumModul1/blob/master/HasilPraktikum3.PNG)
